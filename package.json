@@ -1,1 +1,7 @@
-
+{
+  "name": "mdf",
+  "version": "1.0.0",
+  "description": "mdf file reader for Javascript",
+  "author": "YaseGombo",
+  "license": "MIT"
+}
